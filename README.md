@@ -1,6 +1,5 @@
 # PoEM_Block_chain_Project
  LIGHTWEIGHT MODEL-BASED EVOLUTIONARY CONSENSUS PROTOCOL IN BLOCKCHAIN AS A SERVICE FOR IoT
-PoEM Blockchain Simulation using Mininet & Ryu
 ==============================================
 
 This project demonstrates a lightweight blockchain consensus mechanism, called PoEM (Proof of Evolutionary Model), tailored for IoT and BaaS environments. The simulation runs on a Mininet virtual network, using Ryu SDN Controller to manage topology and traffic.
