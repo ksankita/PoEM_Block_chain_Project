@@ -1,16 +1,16 @@
 # PoEM_Block_chain_Project
- LIGHTWEIGHT MODEL-BASED EVOLUTIONARY CONSENSUS PROTOCOL IN BLOCKCHAIN AS A SERVICE FOR IoT
+** LIGHTWEIGHT MODEL-BASED EVOLUTIONARY CONSENSUS PROTOCOL IN BLOCKCHAIN AS A SERVICE FOR IoT**
 
-BY:
-K S ANKITA - 242IS014
-PRINCE KUMAR - 242IS020
-AASTHA GABA - 242IS035
 ==============================================
 
 GitHub Link for Project:
 https://github.com/ksankita/PoEM_Block_chain_Project
 
-===========================================================
+BY:
+- K S ANKITA - 242IS014
+- PRINCE KUMAR - 242IS020
+- AASTHA GABA - 242IS035
+===========================================================*
 This project demonstrates a lightweight blockchain consensus mechanism, called PoEM (Proof of Evolutionary Model), tailored for IoT and BaaS environments. The simulation runs on a Mininet virtual network, using Ryu SDN Controller to manage topology and traffic.
 
 ------------------------------------------------------------
