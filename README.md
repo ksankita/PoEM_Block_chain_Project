@@ -1,5 +1,10 @@
 # PoEM_Block_chain_Project
  LIGHTWEIGHT MODEL-BASED EVOLUTIONARY CONSENSUS PROTOCOL IN BLOCKCHAIN AS A SERVICE FOR IoT
+
+BY:
+K S ANKITA - 242IS014
+PRINCE KUMAR - 242IS020
+AASTHA GABA - 242IS035
 ==============================================
 
 GitHub Link for Project:
